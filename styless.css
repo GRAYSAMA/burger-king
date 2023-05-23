@@ -23,7 +23,7 @@
 }
 .topnav-right a.active{
 
-    border-bottom: 110px solid red;
+    border-bottom: 30px solid red;
 }
 .topnav-right{
     float: right;
